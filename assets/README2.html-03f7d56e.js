@@ -1,0 +1,1 @@
+import{_ as s,p as t,q as r,R as e,t as a}from"./framework-5866ffd3.js";const c={},o=e("h1",{id:"我的第二個vuepress",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#我的第二個vuepress","aria-hidden":"true"},"#"),a(" 我的第二個VuePress")],-1),n=[o];function _(d,i){return t(),r("div",null,n)}const l=s(c,[["render",_],["__file","README2.html.vue"]]);export{l as default};
