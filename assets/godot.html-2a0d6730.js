@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-343d45d5","path":"/myData/Game/godot.html","title":"Godot","lang":"zh-Hant","frontmatter":{},"headers":[],"git":{},"filePathRelative":"myData/Game/godot.md"}');export{t as data};

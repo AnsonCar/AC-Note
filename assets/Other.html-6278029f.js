@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4eab7ac8","path":"/myData/Other/Other.html","title":"other","lang":"zh-Hant","frontmatter":{},"headers":[{"level":2,"title":"vscode插件","slug":"vscode插件","link":"#vscode插件","children":[]},{"level":2,"title":"Unix/Mac","slug":"unix-mac","link":"#unix-mac","children":[]}],"git":{},"filePathRelative":"myData/Other/Other.md"}');export{e as data};
