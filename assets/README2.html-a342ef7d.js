@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0418aee4","path":"/README2.html","title":"我的第二個VuePress","lang":"zh-Hant","frontmatter":{"lang":"zh-Hant","title":"我的第二個VuePress","description":"我的第二個VuePress的描述"},"headers":[],"git":{},"filePathRelative":"README2.md"}');export{e as data};
