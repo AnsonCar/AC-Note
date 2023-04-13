@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-fd7f75f6","path":"/CookBook/","title":"重韻真解","lang":"zh-Hant","frontmatter":{"lang":"zh-Hant","title":"重韻真解","description":"各種 編程語言的教學筆記"},"headers":[],"git":{},"filePathRelative":"CookBook/README.md"}');export{t as data};
