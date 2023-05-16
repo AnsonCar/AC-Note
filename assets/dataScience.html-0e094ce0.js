@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-2e08a4dc","path":"/myData/Programming/python/dataScience.html","title":"python","lang":"zh-Hant","frontmatter":{},"headers":[{"level":2,"title":"data scrience","slug":"data-scrience","link":"#data-scrience","children":[]}],"git":{},"filePathRelative":"myData/Programming/python/dataScience.md"}');export{a as data};

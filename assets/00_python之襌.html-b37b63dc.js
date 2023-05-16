@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-320559c4","path":"/CookBook/python/00_python%E4%B9%8B%E8%A5%8C.html","title":"Python之禪","lang":"zh-Hant","frontmatter":{},"headers":[{"level":2,"title":"簡潔與優雅，縮行的重要性","slug":"簡潔與優雅-縮行的重要性","link":"#簡潔與優雅-縮行的重要性","children":[]}],"git":{},"filePathRelative":"CookBook/python/00_python之襌.md"}');export{t as data};
