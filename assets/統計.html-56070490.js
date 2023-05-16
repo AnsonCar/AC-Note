@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0604397b","path":"/CookBook/R_nono/00%E7%B5%B1%E8%A8%88%E5%AD%B8/%E7%B5%B1%E8%A8%88.html","title":"統計學","lang":"zh-Hant","frontmatter":{},"headers":[{"level":2,"title":"數據種類","slug":"數據種類","link":"#數據種類","children":[]}],"git":{},"filePathRelative":"CookBook/R_nono/00統計學/統計.md"}');export{t as data};
