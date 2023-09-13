@@ -1,1 +1,0 @@
-import{_ as a,p as t,q as c,R as e,t as d}from"./framework-5866ffd3.js";const r={},s=e("h1",{id:"pyday",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#pyday","aria-hidden":"true"},"#"),d(" pyday")],-1),o=[s];function n(_,i){return t(),c("div",null,o)}const l=a(r,[["render",n],["__file","pyday.html.vue"]]);export{l as default};

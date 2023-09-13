@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-1e3f9901","path":"/Document/pyday/DataReader/DataReader.html","title":"","lang":"zh-Hant","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Document/pyday/DataReader/DataReader.md"}');export{a as data};
