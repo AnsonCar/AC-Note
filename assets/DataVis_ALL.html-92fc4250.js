@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as c}from"./framework-5866ffd3.js";const r={},_=e("h1",{id:"新增文件",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#新增文件","aria-hidden":"true"},"#"),c(" 新增文件...")],-1),o=[_];function n(d,i){return a(),s("div",null,o)}const l=t(r,[["render",n],["__file","DataVis_ALL.html.vue"]]);export{l as default};

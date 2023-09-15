@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-70bf5b73","path":"/Document/pyday/DataVis/DataVis.html","title":"新增文件...","lang":"zh-Hant","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Document/pyday/DataVis/DataVis.md"}');export{a as data};
